@@ -3,14 +3,11 @@ A program written in vb.net targeting Windows XP. This was written to be a repla
 
 Windows 7 users:
 Except for the screen lock feature, the other features should work in windows 7(given administrative rights) 
-
 warning: you may try the screen lock feature at your own risk. However you will be solely responsible for any damage it may cause
-
 
 
 Windows 8 and higher versions:
 Not tested, but should work as in windows 7
-
 warning: you may try the screen lock feature at your own risk. However you will be solely responsible for any damage it may cause
 
 Known issues:
