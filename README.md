@@ -14,3 +14,6 @@ warning: you may try the screen lock feature at your own risk. However you will 
 Known issues:
 * Can cause conflicts with antiviruses while trying to delete virus files
 * the database for viruses include very few viruses only
+ 
+
+P.S: Although the skin was copied from kaspersky. This program is in no way affliated to kaspersy. 
